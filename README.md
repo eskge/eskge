@@ -79,7 +79,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/eskge">
-          <img align="center" src="https://streak-stats.demolab.com?user=eskge&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=eskge&theme=dracula&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@
       <h3 align="center"><strong>Most Used Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/eskge">
-          <img align="center" height="450" width="940" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskge&repo=canvascraft&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Most Used Languages" />
+          <img align="center" height="450" width="940" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskge&repo=canvascraft&theme=dracula&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Most Used Languages" />
         </a>
       </p>
     </td>

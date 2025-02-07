@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://www.pngall.com/wp-content/uploads/2016/07/Space-Transparent.png">
+  <img align="right" width="40%" src="https://imgs.search.brave.com/Bc_D5k8MIsT93L-Ou75_LiOaRC0MZwv0rNjV8G9C2uo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvYmVh/dXRpZnVsLW5hdHVy/ZS1waWN0dXJlcy1t/ZWF6cGxyd3E5YThk/ejNxLmpwZw">
 </div>
 
 <!--Header Name-->

@@ -32,6 +32,11 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">

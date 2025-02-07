@@ -117,14 +117,14 @@
 <div align="center">
   
 <a href="mailto:shaileshdata@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="shaileshdata@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="bittuskg@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/eskge" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="eskge" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/shailesh" target="_blank">
+<a href="https://www.linkedin.com/in/eskge" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="eskge" style="margin-bottom: 5px;" />
 </a>
 </div>
